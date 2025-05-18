@@ -1,2 +1,0 @@
-export const PROFILE_NAME_MAX_LENGTH = 50;
-export const PROFILE_ABOUT_MAX_LENGTH = 256;
